@@ -1,0 +1,15 @@
+{
+  "clients": [
+    {
+      "name": "Example Semiconductor Co",
+      "contact": "Jordan",
+      "competitors": ["intel.com", "amd.com"],
+      "open_roles": [
+        {"title": "Senior Firmware Engineer", "keywords": ["firmware", "embedded", "driver"],
+         "function": "Engineering", "seniority": "", "country": "United States"},
+        {"title": "Enterprise Account Executive", "keywords": ["account", "sales", "enterprise"],
+         "function": "Sales", "seniority": "", "country": "United States"}
+      ]
+    }
+  ]
+}
